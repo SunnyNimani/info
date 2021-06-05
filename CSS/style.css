@@ -1,0 +1,112 @@
+.topcontainer{
+    background-color: #E4F9F5;
+    margin:0px;
+    padding-top: 100px;
+    position: relative;
+}
+h1{
+    font-size: 400%;
+    margin-top: 50px auto 0 auto;
+    font-family: 'Source Code Pro', monospace;
+    color: #66BFBF;
+}
+h2{
+    font-size: 2.3rem;
+    font-family: 'Roboto Mono', monospace;
+    color: #66BFBF;
+}
+body{
+    color: #40514E;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h3,a{
+    color: #11999E;
+}
+p{
+    font-size: 1.2rem;
+}
+.intro{
+    width: 32%;
+    margin: auto;
+}
+.profile{
+    margin-top: 24px;
+    margin-bottom: 30px;
+}
+.bottomcloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.topcloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.skill-row-2{
+    width: 60%;
+    margin: 100px auto 60px auto;
+    text-align: left;
+    
+}
+.skill-row-1{
+    width: 60%;
+    margin: 100px auto 190px auto;
+    text-align: left;
+
+    
+}
+.skill-row-3{
+    width: 60%;
+    margin: 80px auto 80px auto;
+    text-align: left;
+    
+}
+.skillimg1{
+    width: 23%;
+    height: 22%;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    
+}
+.skillimg2{
+    width: 18%;
+    height:15%;
+    float: right;
+    margin-right: 20px;
+    
+}
+.skillimg3{
+    width: 21%;
+    float: left;
+    margin-right: 20px;
+    border-radius: 100%;
+}
+.bottom-container{
+    background-color: #7ad1d1;
+    line-height: 2;
+    padding: 20px;
+}
+.contact-me{
+    line-height: 2;
+}
+#copyright{
+    color: #EAF6F6;
+    margin-bottom: 0px;
+}
+#pro{
+    font-weight: normal;
+}
+hr{
+    
+    
+        border-style: none;
+        border-top-style: dotted;
+        border-color: gray;
+        border-width: 5px;
+        width: 4%;
+    
+}
